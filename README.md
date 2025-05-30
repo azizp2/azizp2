@@ -9,8 +9,8 @@ Saya juga memiliki pengalaman luas dalam mengelola berbagai sistem manajemen bas
 ## 📫 Kontak  
 - Email: aziezgt@gmail.com  
 - Telepon: +62 823-8634-0464  
-- LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/abdul-azis-29887681) *(tambahkan link kamu)*  
-- Portfolio: https://v0-portfolio-website-development-pi.vercel.app *(jika ada)*  
+- LinkedIn: https://linkedin.com/in/abdul-azis-29887681  
+- Portfolio: https://v0-portfolio-website-development-pi.vercel.app 
 
 ---
 
