@@ -92,6 +92,10 @@
 
 <br/>
 
+<h3 align="left">🔥 My Stats</h3> <div align="center"> <img src="https://streak-stats.demolab.com?user=azizp2&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> </div>
+<br/>
+
+
 <!-- Activity Graph -->
 <h2>📈 Contribution Graph</h2>
 
@@ -103,16 +107,6 @@
 
 <br/>
 
-<!-- Snake -->
-<h2>🐍 Contribution Snake</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/azizp2/azizp2/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-<br/>
 
 <h3 align="center">✨ Thanks for Visiting! ✨</h3>
 
