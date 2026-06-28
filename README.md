@@ -1,19 +1,11 @@
 
-<!-- ========================= -->
-<!-- Banner -->
-<!-- ========================= -->
-
 <div align="center">
 
 # Hi, I'm Abdul Azis 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Software+Engineer;Backend+.NET+Developer;Fullstack+Developer;Building+Scalable+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=29A8FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+.NET+Developer;Fullstack+Developer;Building+Scalable+Applications;Always+Learning+New+Things+🚀" />
 
-</div>
-
----
-
-<div align="center">
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdul-azis-29887681)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/aziezgt)
@@ -21,81 +13,119 @@
 
 <br>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=azizp2.azizp2" />
+![](https://visitor-badge.laobi.icu/badge?page_id=azizp2.azizp2)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 Software Engineer with **4+ years of experience** building scalable and maintainable applications using the **.NET ecosystem**.
 
-I enjoy designing clean architectures, building RESTful APIs, and developing distributed systems with modern backend technologies.
-
-### Currently
-
 - 💼 Software Engineer
-- 🌱 Learning Microservices & Event-Driven Architecture
-- 🚀 Exploring Azure Cloud, Docker, and DevOps
-- ❤️ Passionate about Backend Engineering
+- 🔭 Building scalable Backend Systems with .NET
+- 🌱 Learning Microservices, Azure Cloud, and DevOps
+- ❤️ Passionate about Clean Code & Software Architecture
+- 🚀 Always exploring new technologies
 
 ---
 
 # 🛠 Tech Stack
 
-### Backend
+## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=cs,js,ts,dart,php" />
 </p>
 
-### Frontend
+---
+
+## ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,js,jquery,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express" />
+<img src="https://cdn.simpleicons.org/blazor/512BD4" height="48"/>
 </p>
 
-### Mobile
+---
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,jquery" />
+</p>
+
+---
+
+## 📱 Mobile
 
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
-### Database
+---
+
+## 🗄 Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48"/>
 </p>
 
-### DevOps & Cloud
+---
+
+## ☁️ Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,azure" />
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github,githubactions,linux" />
 </p>
 
 ---
 
-## ⚙ Backend Technologies
+## 🏗 Architecture
 
-- ASP.NET Core
-- Entity Framework Core
-- Dapper
-- MediatR
-- Clean Architecture
-- CQRS
-- Microservices
-- RabbitMQ
-- Redis
-- SignalR
-- Hangfire
-- REST API
-- JWT Authentication
+<p>
+
+<img src="https://img.shields.io/badge/Clean%20Architecture-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CQRS-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Microservices-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Event%20Driven-green?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 📚 Libraries & Technologies
+
+<p>
+
+<img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Dapper-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MediatR-6A1B9A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hangfire-178600?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -105,7 +135,9 @@ I enjoy designing clean architectures, building RESTful APIs, and developing dis
 
 </div>
 
-<br>
+---
+
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -115,7 +147,7 @@ I enjoy designing clean architectures, building RESTful APIs, and developing dis
 
 ---
 
-## 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -125,11 +157,27 @@ I enjoy designing clean architectures, building RESTful APIs, and developing dis
 
 ---
 
+# 🎯 Current Focus
+
+- ✅ ASP.NET Core
+- ✅ Microservices
+- ✅ Event-Driven Architecture
+- ✅ Clean Architecture
+- ✅ CQRS + MediatR
+- ✅ RabbitMQ
+- ✅ Redis
+- ✅ Docker
+- ✅ Azure
+- ✅ PostgreSQL
+- ✅ SQL Server
+
+---
+
 <div align="center">
 
-### Thanks for visiting!
+### ⭐ Thanks for visiting my profile!
 
-⭐ Feel free to check out my repositories and connect with me.
+*"Code. Learn. Build. Repeat."*
 
 </div>
 ```
