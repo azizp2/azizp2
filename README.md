@@ -44,7 +44,7 @@
   <br/>
   🌱 Exploring Microservices, Azure Cloud, Docker, and DevOps  
   <br/>
-  🧰 Experienced with .NET, Laravel, Mobile Dev, and Database Systems  
+  🧰 Experienced with .NET Family (C#, ASP.NET Core), React, Dart, Flutter, Entity Framework Core, Dapper, MediatR, Clean Architecture, CQRS, Microservices, RabbitMQ, Redis, SignalR, Hangfire, Docker, SQL Server, PostgreSQL, Git, and Azure DevOps.
   <br/>
   ⚡ Fun fact: I love building systems end-to-end!  
 </p>
