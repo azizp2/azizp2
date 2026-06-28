@@ -25,7 +25,7 @@ Software Engineer with **4+ years of experience** building scalable and maintain
 
 - 💼 Software Engineer
 - 🔭 Building scalable Backend Systems with .NET
-- 🌱 Learning Microservices, Azure Cloud, and DevOps
+- 🌱 Microservices, Azure Cloud, and DevOps
 - ❤️ Passionate about Clean Code & Software Architecture
 - 🚀 Always exploring new technologies
 
